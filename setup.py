@@ -7,3 +7,6 @@ setup(
     packages=find_packages(),
     license='MIT'
 )
+
+print("This is setup.py.")
+print(find_packages())
